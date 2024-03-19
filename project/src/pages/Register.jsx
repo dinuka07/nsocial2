@@ -58,7 +58,7 @@ const Register = () => {
               <TbSocial />
             </div>
             <span className='text-2xl text-[#065ad8] font-semibold'>
-              ShareFun
+              NBOOK
             </span>
           </div>
           <p className='text-ascent-1 text-base font-semibold'>
